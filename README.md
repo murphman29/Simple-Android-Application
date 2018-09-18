@@ -9,8 +9,8 @@ Special Deployment Instructions?
 No special deployment instructions will be necessary for this application to run on an Android. Just simply drag and drop the HelloWorld.tar.gz file onto an Android device and start getting creative!
 
 How to use:
-  Upon opening the application, the user is greeted with a screen that contains some really cool features. At the very top, there is a textbox which prompts the user for text. Changing the text within the box is completely optional and not necessary to reach full enjoyment of the app. Immediately below that box is a button which reads "Change Colour". If this button is pressed, the information within the textbox will change to a completely random color and, if you really liked the generated color, you could take note of the RGB values that appear below the button and use them for whatever you wanted to!
-  When ready to move on, more exciting features await when the "Time to Draw!" button is pressed. Another activity will then launch that contains 4 buttons and a drawing panel. 
+  Upon opening the application, the user is greeted with a screen that contains some really cool features (Screenshot 3). At the very top, there is a textbox which prompts the user for text. Changing the text within the box is completely optional and not necessary to reach full enjoyment of the app. Immediately below that box is a button which reads "Change Colour". If this button is pressed, the information within the textbox will change to a completely random color and, if you really liked the generated color, you could take note of the RGB values that appear below the button and use them for whatever you wanted to! (Screenshot 4)
+  When ready to move on, more exciting features await when the "Time to Draw!" button is pressed. Another activity will then launch that contains 4 buttons and a drawing panel. (Screenshot 5)
   -The "Tap to change colour!" button can be pressed to choose the color of your drawing
   -The "Nuke It!" button will completely erase everything that is currently on the canvas
   -The "Save Masterpiece" button will save the drawing to your machine as a .png image unless specified otherwise
