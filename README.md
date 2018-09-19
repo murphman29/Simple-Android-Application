@@ -6,7 +6,7 @@ The Simple Android Application is meant to be an app that allows expression of c
 
 Special Deployment Instructions?
 
-No special deployment instructions will be necessary for this application to run with basic functionality on an Android. For the "save drawing" function to work, once must first have a directory with the native path "/phone/". If you do not care to save your work, simply drag and drop the output.JSON file onto an Android device and start getting creative!
+No special deployment instructions will be necessary for this application to run with basic functionality on an Android. For the "save drawing" function to work, once must first have a directory with the native path "/phone/". If you do not care to save your work, simply drag and drop the output.JSON and app-debug.apk files onto an Android device and start getting creative!
 
 How to use:
   Upon opening the application, the user is greeted with a screen that contains some really cool features 
